@@ -1,0 +1,3 @@
+to if the device has the module use:
+help('modules')
+in a Python shell.
